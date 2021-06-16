@@ -48,5 +48,9 @@ React JS           ███████▓░░░░░░░░░░░░�
 
 
 📈 My GitHub Stats
+  
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats" />
+<br />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight" />
+<br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vibhuti019&show_icons=true&theme=gotham" alt="vibhuti019" />
