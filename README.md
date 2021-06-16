@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/vibhuti-singh-8b08a7191/">
   <img align="left" alt="Vibhuti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=vibhuti019.vibhuti019)
 
 <br />
