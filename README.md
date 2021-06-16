@@ -11,7 +11,7 @@ Hi, I'm [Vibhuti Singh](https://www.linkedin.com/in/vibhuti-singh-8b08a7191/), a
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/vibhuti019/vibhuti019/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibhuti019/vibhuti019/main/code.gif" width="500" height="320" />
   
 - 💼 Any freelance work? Do reach, [email](mailto:vibhutisingh037@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
