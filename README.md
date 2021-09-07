@@ -17,7 +17,13 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 💼 Any freelance work? Do reach, [email](mailto:vibhutisingh037@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
-**Languages and Tools:**  
+
+<br />
+<br />
+<br />
+<br />
+
+### Languages and Tools:  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -47,8 +53,15 @@ END_SECTION:waka
  -->
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
 <hr />
-📈 My GitHub Stats
+
+### 📈 **My GitHub Stats** <br />
+<br />
 <kbd >
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats"/>  <img height="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight"/>
 </kbd>
@@ -56,7 +69,8 @@ END_SECTION:waka
 
 <hr />
 
-📈 My Overall Stats By WakaTime
+### 📈 **My Overall Stats By WakaTime** <br />
+<br />
 <kbd width="49%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg" width="410"></a></kbd>
 <kbd width="49%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg" width="410"></a></kbd>
 
