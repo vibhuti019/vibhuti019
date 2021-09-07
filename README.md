@@ -54,3 +54,8 @@ React JS           ███████▓░░░░░░░░░░░░�
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight" />
 <br />
 
+📈 My Overall Stats By WakaTime
+
+
+<figure><embed src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg"></embed></figure>
