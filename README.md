@@ -63,7 +63,7 @@ END_SECTION:waka
 ### 📈 **My GitHub Stats** <br />
 <br />
 <kbd >
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats"/>  <img height="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight"/>
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats"/>   <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight"/>
 </kbd>
 
 
