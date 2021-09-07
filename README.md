@@ -57,5 +57,5 @@ React JS           ███████▓░░░░░░░░░░░░�
 📈 My Overall Stats By WakaTime
 
 
-<kbd><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg" ></a></kbd>
-<kbd><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg" ></a></kbd>
+<kbd><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg" width="100%"></a></kbd>
+<kbd><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg" width="100%"></a></kbd>
