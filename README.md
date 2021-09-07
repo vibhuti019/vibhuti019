@@ -49,13 +49,13 @@ React JS           ███████▓░░░░░░░░░░░░�
 
 📈 My GitHub Stats
   
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats" />
 <br />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight" />
 <br />
 
 📈 My Overall Stats By WakaTime
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg" width="50%"></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg"></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/406321fa-85ea-4fc2-ba1d-a38011ff7c84.svg" width="40%"></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg" width="40%"></a>
