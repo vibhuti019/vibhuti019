@@ -49,10 +49,8 @@ React JS           ███████▓░░░░░░░░░░░░�
 
 📈 My GitHub Stats
   
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats" width="49%"/>
-<br />
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight" width="49%"/>
-<br />
+<kbd  width="49%"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vibhuti019&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vibhuti's github stats"/></kbd>
+<kbd  width="49%"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vibhuti019&layout=compact&theme=material-palenight"/></kbd>
 
 📈 My Overall Stats By WakaTime
 
