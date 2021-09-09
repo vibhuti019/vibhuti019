@@ -72,6 +72,6 @@ END_SECTION:waka
 ### 📈 **My Overall Stats By WakaTime** <br />
 <br />
 <kbd width="49%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/4589b7e2-de25-43db-962f-881889a1040f.svg" width="410"></a></kbd>
-<kbd width="49%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/28c70562-9231-4a23-863a-d489e5e9efac.svg" width="410"></a></kbd>
+<kbd width="49%"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@2594a802-bf15-4b5c-84f6-62aaa8d1dfa5/1ce46411-93ed-4938-8433-26fddff736b5.svg" width="410"></a></kbd>
 
 <hr />
