@@ -1,12 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/vibhuti-singh-8b08a7191/">
+<a href="https://www.linkedin.com/in/vibhuti019/">
   <img align="left" alt="Vibhuti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!-- <script src="https://tryhackme.com/badge/63591"></script> -->
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=vibhuti019.vibhuti019)
+[![LinkedIn](https://visitor-badge.glitch.me/badge?page_id=vibhuti019.vibhuti019)](https://www.linkedin.com/in/vibhuti019)
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vibhuti019.png)](https://tryhackme.com/p/vibhuti019)
 
