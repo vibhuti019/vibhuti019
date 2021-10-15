@@ -3,10 +3,12 @@
   <img align="left" alt="Vibhuti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<script src="https://tryhackme.com/badge/63591"></script>
+<!-- <script src="https://tryhackme.com/badge/63591"></script> -->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vibhuti019.vibhuti019)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vibhuti019.png)](https://tryhackme.com/p/vibhuti019)
 
 <br />
 
