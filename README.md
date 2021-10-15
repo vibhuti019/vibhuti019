@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://visitor-badge.glitch.me/badge?page_id=vibhuti019.vibhuti019)](https://www.linkedin.com/in/vibhuti019)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vibhuti019.png)](https://tryhackme.com/p/vibhuti019)
+[![TryHackMe](https://raw.githubusercontent.com/vibhuti019/vibhuti019/main/vibhuti019%20(2).png)](https://tryhackme.com/p/vibhuti019)
 
 <br />
 
