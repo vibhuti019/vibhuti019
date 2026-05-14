@@ -56,4 +56,4 @@ jobs:
           plugin_habits_days: 14
 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
